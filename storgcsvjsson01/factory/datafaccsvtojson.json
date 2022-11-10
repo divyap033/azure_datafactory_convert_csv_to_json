@@ -1,0 +1,9 @@
+{
+	"name": "datafaccsvtojson",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bbbe0951-3114-472e-9d37-7d88c5479fdc",
+		"tenantId": "12f933b3-3d61-4b19-9a4d-689021de8cc9"
+	}
+}
